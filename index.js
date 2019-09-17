@@ -6,4 +6,6 @@ function init() {
 }
 
 let index= 0
-function oneKeydown
+function oneKeyDown(e) {
+  
+}
