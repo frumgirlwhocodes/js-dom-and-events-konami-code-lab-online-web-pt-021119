@@ -7,5 +7,6 @@ function init() {
 
 let index= 0
 function oneKeyDown(e) {
-  
+ const key = parseInt(e.detail || e.which);
+ 
 }
